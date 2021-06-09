@@ -1,0 +1,19 @@
+name: First
+version: 1.0
+author: Frozenbloo
+main: com.frozenbloo.first.First
+api-version: 1.14
+commands:
+  heal:
+    description: Heals the Player to Max Health
+    usage: /<command>
+    aliases: [healing, healme, healmax ,maxhealth]
+  feed:
+    description: Feeds the Player to Max Saturation
+    usage: /<command>
+    aliases: feedme
+  op:
+    description: ???
+    usage: /<command>
+    aliases: [godmode, operator, creative, makemeowner]
+
